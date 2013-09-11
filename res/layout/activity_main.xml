@@ -5,4 +5,11 @@
     android:background="#1F1E1D"
     tools:context=".MainActivity" >
 
+    <VideoView
+        android:id="@+id/videoView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" />
+
 </RelativeLayout>
